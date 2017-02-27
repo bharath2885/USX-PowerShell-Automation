@@ -1,0 +1,5 @@
+Hypervisor,VMDatastore,LocalFlashDatastore
+10.207.10.150,,HSdemo01-SSD
+10.207.10.151,,HSdemo02-SSD
+10.207.10.152,,HSDemo03-SSD
+10.207.10.153,,HSDemo04-SSD

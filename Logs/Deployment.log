@@ -1,0 +1,1815 @@
+2017-02-26 14:31:00 INFO: test 
+
+2017-02-26 14:56:21 INFO: test 
+
+2017-02-26 14:56:21 ERROR: Cannot create directory structure, please check if the permissions are set correctly 
+
+2017-02-26 14:56:21 INFO: Directory has been created,now copying the powershell modules over 
+
+2017-02-26 14:56:41 INFO: test 
+
+2017-02-26 14:56:41 ERROR: Cannot create directory structure, please check if the permissions are set correctly 
+
+2017-02-26 14:56:41 INFO: Directory has been created,now copying the powershell modules over 
+
+2017-02-26 14:57:55 INFO: test 
+
+2017-02-26 14:57:55 ERROR: Cannot create directory structure, please check if the permissions are set correctly 
+
+2017-02-26 14:57:55 INFO: Directory has been created,now copying the powershell modules over 
+
+2017-02-26 14:58:20 INFO: test 
+
+2017-02-26 14:58:20 ERROR: Cannot create directory structure, please check if the permissions are set correctly 
+
+2017-02-26 14:58:20 INFO: Directory has been created,now copying the powershell modules over 
+
+2017-02-26 14:58:37 INFO: test 
+
+2017-02-26 14:58:37 ERROR: Cannot create directory structure, please check if the permissions are set correctly 
+
+2017-02-26 14:58:37 INFO: Directory has been created,now copying the powershell modules over 
+
+2017-02-26 15:00:45 INFO: test 
+
+2017-02-26 15:00:45 INFO: Directory has been created,now copying the powershell modules over 
+
+2017-02-26 15:00:59 INFO: test 
+
+2017-02-26 15:00:59 INFO: Directory has been created,now copying the powershell modules over 
+
+2017-02-26 15:01:27 INFO: test 
+
+2017-02-26 15:01:27 INFO: Directory has been created,now copying the powershell modules over 
+
+2017-02-26 15:02:09 INFO: test 
+
+2017-02-26 15:02:09 INFO: Directory has been created,now copying the powershell modules over 
+
+2017-02-26 15:20:13 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 15:20:28 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 15:21:07 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 15:30:00 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 15:30:00 INFO: The Hypervisor csv file is working! Continuing to execute the script 
+
+2017-02-26 15:30:00 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 15:30:01 INFO: The General configuration file is working! Continuing to execute the script 
+
+2017-02-26 15:30:01 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 15:30:01 INFO: The Global configuration file is working! Continuing to execute the script 
+
+2017-02-26 15:32:09 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 15:32:09 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 15:32:09 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 15:32:09 INFO: The General configuration file has been validated 
+
+2017-02-26 15:32:09 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 15:32:09 INFO: The Global configuration file has been validated 
+
+2017-02-26 15:33:57 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 15:33:57 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 15:33:57 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 15:33:57 INFO: The General configuration file has been validated 
+
+2017-02-26 15:33:57 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 15:33:57 INFO: The Global configuration file has been validated 
+
+2017-02-26 15:33:57 INFO: VM disks being used is netapp2    
+
+2017-02-26 15:33:57 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 15:40:16 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 15:43:42 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 15:45:23 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 15:54:07 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 15:54:07 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 15:54:07 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 15:54:07 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 15:54:07 INFO: The General configuration file has been validated 
+
+2017-02-26 15:54:07 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 15:54:07 INFO: The Global configuration file has been validated 
+
+2017-02-26 15:54:07 INFO: VM disks being used is netapp2    
+
+2017-02-26 15:54:07 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 15:54:07 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 15:54:57 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 15:54:57 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 15:54:57 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 15:54:57 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 15:54:57 INFO: The General configuration file has been validated 
+
+2017-02-26 15:54:57 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 15:54:57 INFO: The Global configuration file has been validated 
+
+2017-02-26 15:54:57 INFO: VM disks being used is netapp2    
+
+2017-02-26 15:54:57 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 15:54:57 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 19:45:16 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:45:18 INFO: Error in input, please check all the json,csv files first 
+
+2017-02-26 19:45:18 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 19:45:18 INFO: USX Setup Successfull, Check your USX Manager to make sure all settings are set 
+
+2017-02-26 19:47:50 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:47:51 INFO: Error in input, please check all the json,csv files first 
+
+2017-02-26 19:47:51 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 19:47:51 INFO: USX Setup Successfull, Check your USX Manager to make sure all settings are set 
+
+2017-02-26 19:48:21 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:48:21 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 19:48:21 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 19:48:21 INFO: The General configuration file has been validated 
+
+2017-02-26 19:48:21 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 19:48:21 INFO: The Global configuration file has been validated 
+
+2017-02-26 19:48:21 INFO: VM disks being used is netapp2    
+
+2017-02-26 19:48:21 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 19:49:11 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:49:11 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 19:49:11 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 19:49:11 INFO: The General configuration file has been validated 
+
+2017-02-26 19:49:11 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 19:49:11 INFO: The Global configuration file has been validated 
+
+2017-02-26 19:49:11 INFO: VM disks being used is netapp2    
+
+2017-02-26 19:49:11 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 19:49:19 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:49:20 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:49:20 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 19:49:20 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 19:49:20 INFO: The General configuration file has been validated 
+
+2017-02-26 19:49:20 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 19:49:20 INFO: The Global configuration file has been validated 
+
+2017-02-26 19:49:20 INFO: VM disks being used is netapp2    
+
+2017-02-26 19:49:20 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 19:49:20 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 19:49:20 ERROR: USX Setup UnSuccessful 
+
+2017-02-26 19:49:20 INFO: USX Setup Successfull, Check your USX Manager to make sure all settings are set 
+
+2017-02-26 19:55:27 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:55:29 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:55:29 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 19:55:29 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 19:55:29 INFO: The General configuration file has been validated 
+
+2017-02-26 19:55:29 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 19:55:29 INFO: The Global configuration file has been validated 
+
+2017-02-26 19:55:29 INFO: VM disks being used is netapp2    
+
+2017-02-26 19:55:29 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 19:55:29 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 19:55:29 ERROR: USX Setup UnSuccessful 
+
+2017-02-26 19:55:29 INFO: USX Setup Successfull, Check your USX Manager to make sure all settings are set 
+
+2017-02-26 19:56:40 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:56:41 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:56:41 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 19:56:41 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 19:56:41 INFO: The General configuration file has been validated 
+
+2017-02-26 19:56:41 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 19:56:41 INFO: The Global configuration file has been validated 
+
+2017-02-26 19:56:41 INFO: VM disks being used is netapp2    
+
+2017-02-26 19:56:41 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 19:56:41 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 19:56:41 ERROR: USX Setup UnSuccessful 
+
+2017-02-26 19:56:41 INFO: USX Setup Successfull, Check your USX Manager to make sure all settings are set 
+
+2017-02-26 19:58:06 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:58:07 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:58:07 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 19:58:07 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 19:58:07 INFO: The General configuration file has been validated 
+
+2017-02-26 19:58:07 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 19:58:07 INFO: The Global configuration file has been validated 
+
+2017-02-26 19:58:07 INFO: VM disks being used is netapp2    
+
+2017-02-26 19:58:07 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 19:58:07 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 19:58:07 ERROR: USX Setup UnSuccessful 
+
+2017-02-26 19:58:07 INFO: USX Setup Successfull, Check your USX Manager to make sure all settings are set 
+
+2017-02-26 19:58:37 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:58:38 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 19:58:38 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 19:58:38 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 19:58:38 INFO: The General configuration file has been validated 
+
+2017-02-26 19:58:38 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 19:58:38 INFO: The Global configuration file has been validated 
+
+2017-02-26 19:58:38 INFO: VM disks being used is netapp2    
+
+2017-02-26 19:58:38 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 19:58:38 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 19:58:38 INFO: USX Setup Successfull, Check your USX Manager to make sure all settings are set 
+
+2017-02-26 20:01:39 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:01:54 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:01:57 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:01:57 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:01:57 INFO: The General configuration file has been validated 
+
+2017-02-26 20:01:57 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:01:57 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:01:57 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:01:57 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:01:57 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:01:57 INFO: USX Setup Successfull, Check your USX Manager to make sure all settings are set 
+
+2017-02-26 20:02:41 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:02:47 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:02:49 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:02:49 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:02:49 INFO: The General configuration file has been validated 
+
+2017-02-26 20:02:49 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:02:49 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:02:49 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:02:49 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:02:49 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:02:49 ERROR: USX Setup UnSuccessful 
+
+2017-02-26 20:02:49 INFO: USX Setup Successfull, Check your USX Manager to make sure all settings are set 
+
+2017-02-26 20:25:21 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:25:25 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:25:27 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:25:27 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:25:27 INFO: The General configuration file has been validated 
+
+2017-02-26 20:25:27 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:25:27 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:25:27 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:25:27 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:25:27 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:25:27 INFO: USX Setup Successfull, Check your USX Manager to make sure all settings are set 
+
+2017-02-26 20:25:39 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:25:42 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:25:44 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:25:44 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:25:44 INFO: The General configuration file has been validated 
+
+2017-02-26 20:25:44 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:25:44 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:25:44 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:25:44 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:25:44 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:25:44 ERROR: USX Setup UnSuccessful 
+
+2017-02-26 20:25:44 INFO: USX Setup Successfull, Check your USX Manager to make sure all settings are set 
+
+2017-02-26 20:27:21 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:27:24 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:27:26 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:27:26 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:27:26 INFO: The General configuration file has been validated 
+
+2017-02-26 20:27:26 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:27:26 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:27:26 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:27:26 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:27:26 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:27:26 ERROR: USX Setup UnSuccessful 
+
+2017-02-26 20:27:26 INFO: USX Setup Successfull, Check your USX Manager to make sure all settings are set 
+
+2017-02-26 20:28:31 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:28:35 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:28:37 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:28:37 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:28:37 INFO: The General configuration file has been validated 
+
+2017-02-26 20:28:37 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:28:37 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:28:37 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:28:37 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:28:37 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:29:43 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:29:46 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:29:49 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:29:49 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:29:49 INFO: The General configuration file has been validated 
+
+2017-02-26 20:29:49 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:29:49 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:29:49 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:29:49 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:29:49 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:30:29 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:30:33 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:30:35 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:30:35 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:30:35 INFO: The General configuration file has been validated 
+
+2017-02-26 20:30:35 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:30:35 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:30:35 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:30:35 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:30:35 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:31:27 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:31:28 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:31:28 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:31:28 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:31:28 INFO: The General configuration file has been validated 
+
+2017-02-26 20:31:28 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:31:28 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:31:28 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:31:28 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:31:28 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:32:16 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:32:17 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:32:17 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:32:17 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:32:17 INFO: The General configuration file has been validated 
+
+2017-02-26 20:32:17 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:32:17 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:32:17 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:32:17 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:32:17 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:32:23 INFO: Cannot add Virtual Center Server to USX Manager try running the command manually 
+
+2017-02-26 20:32:23 INFO: Connected  to USX Manager 
+
+2017-02-26 20:34:07 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:34:08 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:34:08 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:34:08 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:34:08 INFO: The General configuration file has been validated 
+
+2017-02-26 20:34:08 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:34:08 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:34:08 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:34:08 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:34:08 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:34:10 INFO: Cannot add Virtual Center Server to USX Manager try running the command manually 
+
+2017-02-26 20:34:10 INFO: Connected  to USX Manager 
+
+2017-02-26 20:35:11 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:35:13 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:35:13 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:35:13 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:35:13 INFO: The General configuration file has been validated 
+
+2017-02-26 20:35:13 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:35:13 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:35:13 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:35:13 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:35:13 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:35:15 INFO: Cannot add Virtual Center Server to USX Manager try running the command manually 
+
+2017-02-26 20:35:15 INFO: Connected  to USX Manager 
+
+2017-02-26 20:39:23 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:39:31 INFO: Cannot add Virtual Center Server to USX Manager try running the command manually 
+
+2017-02-26 20:39:31 INFO: Connected  to USX Manager 
+
+2017-02-26 20:39:31 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:39:31 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:39:31 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:39:31 INFO: The General configuration file has been validated 
+
+2017-02-26 20:39:31 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:39:31 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:39:31 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:39:31 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:39:31 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:43:11 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:43:12 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:43:12 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:43:12 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:43:12 INFO: The General configuration file has been validated 
+
+2017-02-26 20:43:12 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:43:12 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:43:12 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:43:12 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:43:12 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:44:09 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:44:10 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:44:10 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:44:10 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:44:10 INFO: The General configuration file has been validated 
+
+2017-02-26 20:44:10 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:44:10 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:44:10 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:44:10 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:44:10 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:45:45 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:45:46 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:45:46 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:45:46 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:45:46 INFO: The General configuration file has been validated 
+
+2017-02-26 20:45:46 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:45:46 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:45:46 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:45:46 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:45:46 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:46:17 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:46:18 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:46:18 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:46:18 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:46:18 INFO: The General configuration file has been validated 
+
+2017-02-26 20:46:18 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:46:18 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:46:18 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:46:18 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:46:18 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:48:36 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:48:37 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:48:37 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:48:37 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:48:37 INFO: The General configuration file has been validated 
+
+2017-02-26 20:48:37 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:48:37 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:48:37 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:48:37 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:48:37 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 20:53:10 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:53:11 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 20:53:11 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 20:53:11 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 20:53:11 INFO: The General configuration file has been validated 
+
+2017-02-26 20:53:11 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 20:53:11 INFO: The Global configuration file has been validated 
+
+2017-02-26 20:53:11 INFO: VM disks being used is netapp2    
+
+2017-02-26 20:53:11 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 20:53:11 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:01:02 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:02:05 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:03:02 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:03:17 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:06:11 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:06:48 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:08:25 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:08:33 INFO: Cannot Connect to Virtual Center 10.207.10.154 
+
+2017-02-26 21:08:33 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:08:46 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:08:53 INFO: Cannot Connect to Virtual Center 10.207.10.154 
+
+2017-02-26 21:08:53 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:10:41 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:10:47 INFO: Cannot Connect to Virtual Center 10.207.10.154 
+
+2017-02-26 21:10:51 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:10:54 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:12:55 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:12:59 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:12:59 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:12:59 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 21:12:59 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 21:12:59 INFO: The General configuration file has been validated 
+
+2017-02-26 21:12:59 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 21:12:59 INFO: The Global configuration file has been validated 
+
+2017-02-26 21:12:59 INFO: VM disks being used is netapp2    
+
+2017-02-26 21:12:59 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 21:12:59 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:13:37 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:13:40 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:13:40 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:13:40 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 21:13:40 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 21:13:40 INFO: The General configuration file has been validated 
+
+2017-02-26 21:13:40 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 21:13:40 INFO: The Global configuration file has been validated 
+
+2017-02-26 21:13:40 INFO: VM disks being used is netapp2    
+
+2017-02-26 21:13:40 INFO: LocalFlash disks being is 10.30.10.1-SSD-RAID-1 10.30.10.2-SSD-RAID-1 10.30.10.3-SSD-RAID-1 10.30.10.4-SSD-RAID-1 
+
+2017-02-26 21:13:40 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:20:48 INFO: Successfully connected to VMwarevCenter 
+
+2017-02-26 21:20:48 INFO: Setting Global Preferences 
+
+2017-02-26 21:20:48 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 21:20:48 INFO: Setting Advanced setting on USX Manager to true 
+
+2017-02-26 21:20:48 INFO: Setting Multicast IP to 226.2.2.6 
+
+2017-02-26 21:20:48 INFO: Setting Global Maximum Memory allocation to 95 
+
+2017-02-26 21:20:48 INFO: Setting Global Maximum Local disk allocation to 90 
+
+2017-02-26 21:20:48 INFO: Setting Global Maximum Local Flash  allocation to 99 
+
+2017-02-26 21:20:49 INFO: Setting HyperVisor layout for volume to 4 
+
+2017-02-26 21:20:49 INFO: Setting HyperVisor reservations to true 
+
+2017-02-26 21:20:49 INFO: Setting USX SnapShot mode to false 
+
+2017-02-26 21:20:49 INFO: Setting request interval value to 3 
+
+2017-02-26 21:20:49 INFO: Setting shared storage for OS Disk setting to true 
+
+2017-02-26 21:20:49 INFO: Setting shared storage for OS Disk setting to THICKLAZY 
+
+2017-02-26 21:20:49 INFO: Setting SSD storage for OS Setting to true 
+
+2017-02-26 21:20:49 INFO: Setting flash storage for data setting to true 
+
+2017-02-26 21:20:49 INFO: Setting MAX Nodes per HA Cluster 3 
+
+2017-02-26 21:20:49 INFO: Setting shared HA  to true 
+
+2017-02-26 21:20:49 INFO: Setting Volume Export type to NFS 
+
+2017-02-26 21:20:49 INFO: ###################### Completed Global Settings ################### 
+
+2017-02-26 21:20:49 INFO: Adding HyperVisors and Storage 
+
+2017-02-26 21:20:54 ERROR: Adding Hypervisor failed 
+
+2017-02-26 21:20:54 INFO: Added Hypervisors 
+
+2017-02-26 21:20:54 INFO: Adding Network Profiles and Name Templates 
+
+2017-02-26 21:20:54 ERROR: USX Setup UnSuccessful 
+
+2017-02-26 21:20:54 INFO: USX Setup Successfull, Check your USX Manager to make sure all settings are set 
+
+2017-02-26 21:21:16 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:21:19 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:21:19 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:21:19 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 21:21:19 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 21:21:19 INFO: The General configuration file has been validated 
+
+2017-02-26 21:21:19 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 21:21:19 INFO: The Global configuration file has been validated 
+
+2017-02-26 21:21:19 INFO: VM disks being used is     
+
+2017-02-26 21:21:19 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 21:21:19 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:21:19 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 21:22:47 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:22:50 INFO: Cannot Connect to Virtual Center 10.207.10.154 
+
+2017-02-26 21:23:11 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:23:14 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:23:14 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:23:14 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 21:23:14 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 21:23:14 INFO: The General configuration file has been validated 
+
+2017-02-26 21:23:14 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 21:23:14 INFO: The Global configuration file has been validated 
+
+2017-02-26 21:23:14 INFO: VM disks being used is     
+
+2017-02-26 21:23:14 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 21:23:14 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:23:14 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 21:27:34 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:27:38 INFO: Cannot Connect to Virtual Center 10.207.10.154 
+
+2017-02-26 21:27:59 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:28:32 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:28:40 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:28:40 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 21:28:40 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 21:28:40 INFO: The General configuration file has been validated 
+
+2017-02-26 21:28:40 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 21:28:40 INFO: The Global configuration file has been validated 
+
+2017-02-26 21:28:40 INFO: VM disks being used is     
+
+2017-02-26 21:28:40 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 21:28:40 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:28:48 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 21:29:15 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:29:18 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:29:18 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:29:18 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 21:29:18 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 21:29:18 INFO: The General configuration file has been validated 
+
+2017-02-26 21:29:18 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 21:29:18 INFO: The Global configuration file has been validated 
+
+2017-02-26 21:29:18 INFO: VM disks being used is     
+
+2017-02-26 21:29:18 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 21:29:18 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:30:06 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 21:30:46 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:30:49 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:30:49 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:30:49 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 21:30:49 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 21:30:49 INFO: The General configuration file has been validated 
+
+2017-02-26 21:30:49 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 21:30:49 INFO: The Global configuration file has been validated 
+
+2017-02-26 21:30:49 INFO: VM disks being used is     
+
+2017-02-26 21:30:49 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 21:30:49 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:31:22 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 21:32:12 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:32:16 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:32:16 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:32:16 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 21:32:16 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 21:32:16 INFO: The General configuration file has been validated 
+
+2017-02-26 21:32:16 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 21:32:16 INFO: The Global configuration file has been validated 
+
+2017-02-26 21:32:16 INFO: VM disks being used is     
+
+2017-02-26 21:32:16 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 21:32:16 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:33:07 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 21:35:08 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:35:10 INFO: Cannot Connect to Virtual Center 10.207.10.154 
+
+2017-02-26 21:37:35 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:37:39 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:37:39 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:37:39 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 21:37:39 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 21:37:39 INFO: The General configuration file has been validated 
+
+2017-02-26 21:37:39 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 21:37:39 INFO: The Global configuration file has been validated 
+
+2017-02-26 21:37:39 INFO: VM disks being used is     
+
+2017-02-26 21:37:39 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 21:37:39 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:37:39 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 21:38:59 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:42:01 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:42:04 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:42:04 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:42:04 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 21:42:04 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 21:42:04 INFO: The General configuration file has been validated 
+
+2017-02-26 21:42:04 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 21:42:04 INFO: The Global configuration file has been validated 
+
+2017-02-26 21:42:04 INFO: VM disks being used is     
+
+2017-02-26 21:42:04 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 21:42:04 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:42:04 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 21:48:44 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:48:47 INFO: Cannot Connect to Virtual Center 10.207.10.154 
+
+2017-02-26 21:49:03 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:49:06 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:49:06 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:49:06 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 21:49:06 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 21:49:06 INFO: The General configuration file has been validated 
+
+2017-02-26 21:49:06 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 21:49:06 INFO: The Global configuration file has been validated 
+
+2017-02-26 21:49:06 INFO: VM disks being used is     
+
+2017-02-26 21:49:06 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 21:49:06 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:49:06 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 21:49:41 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:49:44 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:49:44 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:49:44 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 21:49:44 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 21:49:44 INFO: The General configuration file has been validated 
+
+2017-02-26 21:49:44 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 21:49:44 INFO: The Global configuration file has been validated 
+
+2017-02-26 21:49:44 INFO: VM disks being used is     
+
+2017-02-26 21:49:44 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 21:49:44 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:49:44 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 21:49:44 INFO: Setting Advanced setting on USX Manager to true 
+
+2017-02-26 21:49:44 INFO: Setting Multicast IP to 226.2.2.6 
+
+2017-02-26 21:49:44 INFO: Setting Global Maximum Memory allocation to 95 
+
+2017-02-26 21:49:44 INFO: Setting Global Maximum Local disk allocation to 90 
+
+2017-02-26 21:49:44 INFO: Setting Global Maximum Local Flash  allocation to 99 
+
+2017-02-26 21:49:44 INFO: Setting HyperVisor layout for volume to 4 
+
+2017-02-26 21:49:44 INFO: Setting HyperVisor reservations to true 
+
+2017-02-26 21:49:44 INFO: Setting USX SnapShot mode to false 
+
+2017-02-26 21:49:44 INFO: Setting request interval value to 3 
+
+2017-02-26 21:49:44 INFO: Setting shared storage for OS Disk setting to false 
+
+2017-02-26 21:49:44 INFO: Setting shared storage for OS Disk setting to THICKLAZY 
+
+2017-02-26 21:49:44 INFO: Setting SSD storage for OS Setting to false 
+
+2017-02-26 21:49:44 INFO: Setting flash storage for data setting to true 
+
+2017-02-26 21:49:44 INFO: Setting MAX Nodes per HA Cluster 3 
+
+2017-02-26 21:49:44 INFO: Setting shared HA  to true 
+
+2017-02-26 21:49:44 INFO: Setting Volume Export type to NFS 
+
+2017-02-26 21:49:44 INFO: ###################### Completed Global Settings ################### 
+
+2017-02-26 21:51:47 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:51:50 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:51:50 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 21:51:50 INFO: Setting Advanced setting on USX Manager to true 
+
+2017-02-26 21:51:50 INFO: Setting Multicast IP to 226.2.2.6 
+
+2017-02-26 21:51:50 INFO: Setting Global Maximum Memory allocation to 95 
+
+2017-02-26 21:51:50 INFO: Setting Global Maximum Local disk allocation to 90 
+
+2017-02-26 21:51:50 INFO: Setting Global Maximum Local Flash  allocation to 99 
+
+2017-02-26 21:51:50 INFO: Setting HyperVisor layout for volume to 4 
+
+2017-02-26 21:51:50 INFO: Setting HyperVisor reservations to true 
+
+2017-02-26 21:51:50 INFO: Setting USX SnapShot mode to false 
+
+2017-02-26 21:51:50 INFO: Setting request interval value to 3 
+
+2017-02-26 21:51:50 INFO: Setting shared storage for OS Disk setting to false 
+
+2017-02-26 21:51:50 INFO: Setting shared storage for OS Disk setting to THICKLAZY 
+
+2017-02-26 21:51:50 INFO: Setting SSD storage for OS Setting to false 
+
+2017-02-26 21:51:50 INFO: Setting flash storage for data setting to true 
+
+2017-02-26 21:51:50 INFO: Setting MAX Nodes per HA Cluster 3 
+
+2017-02-26 21:51:50 INFO: Setting shared HA  to true 
+
+2017-02-26 21:51:50 INFO: Setting Volume Export type to NFS 
+
+2017-02-26 21:51:50 INFO: ###################### Completed Global Settings ################### 
+
+2017-02-26 21:54:01 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:54:02 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 21:54:02 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 21:54:02 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 21:54:02 INFO: The General configuration file has been validated 
+
+2017-02-26 21:54:02 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 21:54:02 INFO: The Global configuration file has been validated 
+
+2017-02-26 21:54:02 INFO: VM disks being used is     
+
+2017-02-26 21:54:02 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 21:54:02 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 21:54:06 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 21:54:06 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 21:54:06 INFO: Setting Advanced setting on USX Manager to true 
+
+2017-02-26 21:54:06 INFO: Setting Multicast IP to 226.2.2.6 
+
+2017-02-26 21:54:06 INFO: Setting Global Maximum Memory allocation to 95 
+
+2017-02-26 21:54:06 INFO: Setting Global Maximum Local disk allocation to 90 
+
+2017-02-26 21:54:06 INFO: Setting Global Maximum Local Flash  allocation to 99 
+
+2017-02-26 21:54:06 INFO: Setting HyperVisor layout for volume to 4 
+
+2017-02-26 21:54:06 INFO: Setting HyperVisor reservations to true 
+
+2017-02-26 21:54:06 INFO: Setting USX SnapShot mode to false 
+
+2017-02-26 21:54:06 INFO: Setting request interval value to 3 
+
+2017-02-26 21:54:06 INFO: Setting shared storage for OS Disk setting to false 
+
+2017-02-26 21:54:06 INFO: Setting shared storage for OS Disk setting to THICKLAZY 
+
+2017-02-26 21:54:06 INFO: Setting SSD storage for OS Setting to false 
+
+2017-02-26 21:54:06 INFO: Setting flash storage for data setting to true 
+
+2017-02-26 21:54:06 INFO: Setting MAX Nodes per HA Cluster 3 
+
+2017-02-26 21:54:06 INFO: Setting shared HA  to true 
+
+2017-02-26 21:54:06 INFO: Setting Volume Export type to NFS 
+
+2017-02-26 21:54:06 INFO: ###################### Completed Global Settings ################### 
+
+2017-02-26 22:00:23 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:00:24 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:00:24 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:00:24 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:00:24 INFO: The General configuration file has been validated 
+
+2017-02-26 22:00:24 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:00:24 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:00:24 INFO: VM disks being used is     
+
+2017-02-26 22:00:24 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:00:24 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 22:00:27 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 22:00:27 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 22:00:27 INFO: Setting Advanced setting on USX Manager to true 
+
+2017-02-26 22:00:27 INFO: Setting Multicast IP to 226.2.2.6 
+
+2017-02-26 22:00:27 INFO: Setting Global Maximum Memory allocation to 95 
+
+2017-02-26 22:00:27 INFO: Setting Global Maximum Local disk allocation to 90 
+
+2017-02-26 22:00:27 INFO: Setting Global Maximum Local Flash  allocation to 99 
+
+2017-02-26 22:00:27 INFO: Setting HyperVisor layout for volume to 4 
+
+2017-02-26 22:00:27 INFO: Setting HyperVisor reservations to true 
+
+2017-02-26 22:00:27 INFO: Setting USX SnapShot mode to false 
+
+2017-02-26 22:00:27 INFO: Setting request interval value to 3 
+
+2017-02-26 22:00:27 INFO: Setting shared storage for OS Disk setting to false 
+
+2017-02-26 22:00:27 INFO: Setting shared storage for OS Disk setting to THICKLAZY 
+
+2017-02-26 22:00:27 INFO: Setting SSD storage for OS Setting to false 
+
+2017-02-26 22:00:27 INFO: Setting flash storage for data setting to true 
+
+2017-02-26 22:00:27 INFO: Setting MAX Nodes per HA Cluster 3 
+
+2017-02-26 22:00:27 INFO: Setting shared HA  to true 
+
+2017-02-26 22:00:27 INFO: Setting Volume Export type to NFS 
+
+2017-02-26 22:00:27 INFO: ###################### Completed Global Settings ################### 
+
+2017-02-26 22:00:32 ERROR: Adding Hypervisor failed 
+
+2017-02-26 22:00:32 INFO: Added Hypervisors 
+
+2017-02-26 22:02:03 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:02:03 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:02:03 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:02:03 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:02:03 INFO: The General configuration file has been validated 
+
+2017-02-26 22:02:03 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:02:03 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:02:04 INFO: VM disks being used is     
+
+2017-02-26 22:02:04 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:02:04 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 22:02:06 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 22:02:06 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 22:02:06 INFO: Setting Advanced setting on USX Manager to true 
+
+2017-02-26 22:02:06 INFO: Setting Multicast IP to 226.2.2.6 
+
+2017-02-26 22:02:06 INFO: Setting Global Maximum Memory allocation to 95 
+
+2017-02-26 22:02:06 INFO: Setting Global Maximum Local disk allocation to 90 
+
+2017-02-26 22:02:06 INFO: Setting Global Maximum Local Flash  allocation to 99 
+
+2017-02-26 22:02:06 INFO: Setting HyperVisor layout for volume to 4 
+
+2017-02-26 22:02:06 INFO: Setting HyperVisor reservations to true 
+
+2017-02-26 22:02:06 INFO: Setting USX SnapShot mode to false 
+
+2017-02-26 22:02:06 INFO: Setting request interval value to 3 
+
+2017-02-26 22:02:06 INFO: Setting shared storage for OS Disk setting to false 
+
+2017-02-26 22:02:06 INFO: Setting shared storage for OS Disk setting to THICKLAZY 
+
+2017-02-26 22:02:06 INFO: Setting SSD storage for OS Setting to false 
+
+2017-02-26 22:02:06 INFO: Setting flash storage for data setting to true 
+
+2017-02-26 22:02:06 INFO: Setting MAX Nodes per HA Cluster 3 
+
+2017-02-26 22:02:06 INFO: Setting shared HA  to true 
+
+2017-02-26 22:02:06 INFO: Setting Volume Export type to NFS 
+
+2017-02-26 22:02:06 INFO: ###################### Completed Global Settings ################### 
+
+2017-02-26 22:10:27 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:10:28 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:10:28 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:10:28 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:10:28 INFO: The General configuration file has been validated 
+
+2017-02-26 22:10:28 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:10:28 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:10:28 INFO: VM disks being used is     
+
+2017-02-26 22:10:28 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:10:28 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 22:10:33 ERROR: Adding Hypervisor failed 
+
+2017-02-26 22:10:33 INFO: Adding Hypervisor failed Add-USXHypervisor {VMManager=VMwarevCenter, Name=10.207.10.1 10.207.10.2 10.207.10.3 10.207.10.4, Cluster=USXCluster}: @{code=500; message=There was an error processing your request. It has been logged (ID cf81dbb20e39e9c8).} Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Add-USXHypervisor {VMManager=VMwarevCenter, Name=10.207.10.1 10.207.10.2 10.207.10.3 10.207.10.4, Cluster=USXCluster}: @{code=500; message=There was an error processing your request. It has been logged (ID 4a486201c2dd9116).} Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Adding Hypervisor failed Add-USXHypervisor {VMManager=VMwarevCenter, Name=10.207.10.1 10.207.10.2 10.207.10.3 10.207.10.4, Cluster=USXCluster}: @{code=500; message=There was an error processing your request. It has been logged (ID 461126a5f45f7b4d).} Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Set-USXGlobalSetting: You are not connected to a USX Manager please call Connect-USX before attempting any operation Add-USXVMManager {Name=VMwarevCenter, VMManagerHostname=10.207.10.154, VMManagerType=VCENTER, User=root, Password=vmware}: VM manager name is existing already Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Set-USXGlobalSetting: You are not connected to a USX Manager please call Connect-USX before attempting any operation Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation Set-USXGlobalSetting: You are not connected to a USX Manager please call Connect-USX before attempting any operation Add-USXVMManager {Name=VMwarevCenter, VMManagerHostname=10.207.10.154, VMManagerType=VCENTER, User=root, Password=vmware}: VM manager name is existing already Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Set-USXGlobalSetting: You are not connected to a USX Manager please call Connect-USX before attempting any operation Set-USXGlobalSetting: You are not connected to a USX Manager please call Connect-USX before attempting any operation Set-USXGlobalSetting: You are not connected to a USX Manager please call Connect-USX before attempting any operation Set-USXGlobalSetting: You are not connected to a USX Manager please call Connect-USX before attempting any operation Add-USXVMManager {Name=VMwarevCenter, VMManagerHostname=10.207.10.154, VMManagerType=VCENTER, User=root, Password=vmware}: VM manager name is existing already Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Set-USXGlobalSetting: You are not connected to a USX Manager please call Connect-USX before attempting any operation Add-USXVMManager {Name=VMwarevCenter, VMManagerHostname=10.207.10.154, VMManagerType=VCENTER, User=root, Password=vmware}: VM manager name is existing already Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Set-USXGlobalSetting: You are not connected to a USX Manager please call Connect-USX before attempting any operation USX Setup UnSuccessful Add-USXNetworkProfile {Name=USX Storage, HyperVisor=10.30.10.1 10.30.10.2 10.30.10.3 10.30.10.4, NetworkName=HyperScale_Storage, ErrorAction=SilentlyContinue}: @{code=500; message=There was an error processing your request. It has been logged (ID 20503ef61def6ccb).} Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Adding Hypervisor failed Add-USXHypervisor {VMManager=VMwarevCenter, Name=10.30.10.1 10.30.10.2 10.30.10.3 10.30.10.4, Cluster=USXCluster}: @{code=500; message=There was an error processing your request. It has been logged (ID 13564d6f86c89b11).} Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Add-USXVMManager {Name=VMwarevCenter, VMManagerHostname=10.207.10.154, VMManagerType=VCENTER, User=root, Password=wefewf}: Unable to login to VM Manager: VMwarevCenter, please verify the VM Manager IP: 10.207.10.154, Port:  and your credential are correct Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Add-USXVMManager {Name=VMwarevCenter, VMManagerHostname=10.207.10.154, VMManagerType=VCENTER, User=root, Password=P@ssword1}: Unable to login to VM Manager: VMwarevCenter, please verify the VM Manager IP: 10.207.10.154, Port:  and your credential are correct Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Add-USXVMManager {Name=VMwarevCenter, VMManagerHostname=10.207.10.154, VMManagerType=VCENTER, User=root, Password=P@ssword1}: Unable to login to VM Manager: VMwarevCenter, please verify the VM Manager IP: 10.207.10.154, Port:  and your credential are correct Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Add-USXVMManager {Name=10.207.10.154, VMManagerHostname=VMwarevCenter, VMManagerType=VCENTER, User=root, Password=vmware}: VMwarevCenter: unknown error Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (412) Precondition Failed." Add-USXVMManager {Name=10.207.10.154, VMManagerHostname=VMwarevCenter, VMManagerType=VCENTER, User=root, Password=P@ssword1}: VMwarevCenter: unknown error Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (412) Precondition Failed." Parameter set cannot be resolved using the specified named parameters. Add-USXVMManager {Name=10.207.10.154, VMManagerHostname=VMwarevCenter, VMManagerType=VCENTER, User=root, Password=vmware}: VMwarevCenter: unknown error Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (412) Precondition Failed." Add-USXVMManager {Name=10.207.10.154, VMManagerHostname=VMwarevCenter, VMManagerType=VCENTER, User=root, Password=P@ssword1}: VMwarevCenter: unknown error Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (412) Precondition Failed." Add-USXVMManager {Name=VMwarevCenter, VMManagerHostname=10.207.10.154, VMManagerType=VCENTER, User=root, Password=P@ssword1}: Unable to login to VM Manager: VMwarevCenter, please verify the VM Manager IP: 10.207.10.154, Port:  and your credential are correct Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation Cannot validate argument on parameter 'Message'. The argument is null or empty. Provide an argument that is not null or empty, and then try the command again. Add-USXVMManager {Name=VMwarevCenter, VMManagerHostname=10.207.10.154, VMManagerType=VCENTER, User=root, Password=P@ssword1}: Unable to login to VM Manager: VMwarevCenter, please verify the VM Manager IP: 10.207.10.154, Port:  and your credential are correct Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (500) Internal Server Error." Add-USXVMManager {Name=10.207.10.154, VMManagerHostname=vCentervcSA, VMManagerType=VCENTER, User=root, Password=vmware}: vCentervcSA: unknown error Exception calling "GetResponse" with "0" argument(s): "The remote server returned an error: (412) Precondition Failed." Add-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation Add-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation Cannot validate argument on parameter 'Message'. The argument is null or empty. Provide an argument that is not null or empty, and then try the command again. Add-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation Add-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation Add-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation USX Setup UnSuccessful Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation USX Setup UnSuccessful Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation USX Setup UnSuccessful Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation The term 'c' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. USX Setup UnSuccessful Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation USX Setup UnSuccessful Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation USX Setup UnSuccessful Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation USX Setup UnSuccessful Get-USXVMManager: You are not connected to a USX Manager please call Connect-USX before attempting any operation Cannot bind argument to parameter 'Path' because it is null. Cannot bind argument to parameter 'Path' because it is null. The term '\Scripts\General_Input_File_Validation.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. The term '\Scripts\General_Input_File_Validation.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is null. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. The term '\Scripts\General_Input_File_Validation.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is null. Parameter set cannot be resolved using the specified named parameters. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. The term '\Scripts\General_Input_File_Validation.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is an empty string. Cannot bind argument to parameter 'Path' because it is null. 
+
+2017-02-26 22:10:33 INFO: Added Hypervisors 
+
+2017-02-26 22:11:33 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:11:34 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:11:34 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:11:34 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:11:34 INFO: The General configuration file has been validated 
+
+2017-02-26 22:11:34 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:11:34 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:11:34 INFO: VM disks being used is     
+
+2017-02-26 22:11:34 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:11:34 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 22:11:39 ERROR: Adding Hypervisor failed 
+
+2017-02-26 22:11:39 INFO: Added Hypervisors 
+
+2017-02-26 22:17:34 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:17:35 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:17:35 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:17:35 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:17:35 INFO: The General configuration file has been validated 
+
+2017-02-26 22:17:35 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:17:35 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:17:35 INFO: VM disks being used is     
+
+2017-02-26 22:17:35 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:17:35 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 22:17:40 INFO: 10.207.10.1 
+
+2017-02-26 22:17:40 INFO: 10.207.10.2 
+
+2017-02-26 22:17:40 INFO: 10.207.10.3 
+
+2017-02-26 22:17:40 INFO: 10.207.10.4 
+
+2017-02-26 22:17:40 INFO: Added Hypervisors 
+
+2017-02-26 22:18:12 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:18:13 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:18:13 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:18:13 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:18:13 INFO: The General configuration file has been validated 
+
+2017-02-26 22:18:13 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:18:13 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:18:13 INFO: VM disks being used is     
+
+2017-02-26 22:18:13 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:18:13 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 22:18:18 INFO: 10.207.10.1 
+
+2017-02-26 22:18:18 ERROR: Adding Hypervisor failed 
+
+2017-02-26 22:18:18 INFO: Added Hypervisors 
+
+2017-02-26 22:19:16 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:19:17 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:19:17 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:19:17 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:19:17 INFO: The General configuration file has been validated 
+
+2017-02-26 22:19:17 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:19:17 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:19:17 INFO: VM disks being used is     
+
+2017-02-26 22:19:17 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:19:17 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 22:19:22 INFO: 10.207.10.1 
+
+2017-02-26 22:19:22 ERROR: Adding Hypervisor failed 
+
+2017-02-26 22:19:22 INFO: Added Hypervisors 
+
+2017-02-26 22:21:11 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:21:12 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:21:12 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:21:12 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:21:12 INFO: The General configuration file has been validated 
+
+2017-02-26 22:21:12 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:21:12 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:21:12 INFO: VM disks being used is     
+
+2017-02-26 22:21:12 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:21:12 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 22:21:17 INFO: Added Hypervisors 
+
+2017-02-26 22:22:38 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:22:39 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:22:39 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:22:39 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:22:39 INFO: The General configuration file has been validated 
+
+2017-02-26 22:22:39 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:22:39 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:22:39 INFO: VM disks being used is     
+
+2017-02-26 22:22:39 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:22:39 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 22:22:39 INFO: Added HSdemo01-SSD to the deployment 
+
+2017-02-26 22:22:39 INFO: Added HSdemo02-SSD to the deployment 
+
+2017-02-26 22:22:39 INFO: Added HSDemo03-SSD to the deployment 
+
+2017-02-26 22:22:39 INFO: Added HSDemo04-SSD to the deployment 
+
+2017-02-26 22:24:52 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:24:53 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:24:53 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:24:53 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:24:53 INFO: The General configuration file has been validated 
+
+2017-02-26 22:24:53 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:24:53 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:24:53 INFO: VM disks being used is     
+
+2017-02-26 22:24:53 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:24:53 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 22:24:53 INFO: 
+ Network Profiles created 
+
+2017-02-26 22:24:53 INFO: Last Step : Name Templates created 
+
+2017-02-26 22:27:52 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:27:53 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:27:53 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:27:53 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:27:53 INFO: The General configuration file has been validated 
+
+2017-02-26 22:27:53 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:27:53 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:27:53 INFO: VM disks being used is     
+
+2017-02-26 22:27:53 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:27:53 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 22:27:53 INFO: 
+ Network Profiles created 
+
+2017-02-26 22:48:01 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:48:01 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:48:01 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:48:01 INFO: The General configuration file has been validated 
+
+2017-02-26 22:48:01 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:48:01 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:48:01 INFO: VM disks being used is     
+
+2017-02-26 22:48:01 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:49:43 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:49:43 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:49:43 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:49:43 INFO: The General configuration file has been validated 
+
+2017-02-26 22:49:43 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:49:43 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:49:43 INFO: VM disks being used is     
+
+2017-02-26 22:49:43 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:51:12 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:51:13 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 22:51:13 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 22:51:13 INFO: The General configuration file has been validated 
+
+2017-02-26 22:51:13 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 22:51:13 INFO: The Global configuration file has been validated 
+
+2017-02-26 22:51:13 INFO: The Volume Config file has been validated 
+
+2017-02-26 22:51:13 INFO: VM disks being used is     
+
+2017-02-26 22:51:13 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 22:53:27 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 22:54:40 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 23:09:13 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 23:09:13 INFO: Not Connected to USX Manager 
+
+2017-02-26 23:10:28 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 23:28:14 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 23:28:14 INFO: First Disabling HA on all Volumes 
+
+2017-02-26 23:28:16 INFO: USXX2 does not have HA enabled 
+
+2017-02-26 23:28:19 INFO: USXX3 does not have HA enabled 
+
+2017-02-26 23:28:22 INFO: USXX1 does not have HA enabled 
+
+2017-02-26 23:28:22 INFO: Deleting Volumes Virtual Machines 
+
+2017-02-26 23:31:16 INFO: Deleting Service Virtual Machines 
+
+2017-02-26 23:31:39 INFO: Deleting Orphaned HA Containers 
+
+2017-02-26 23:31:49 INFO: Cleaning up Networking Details and Name Templates 
+
+2017-02-26 23:31:49 INFO: Remove Storage Profile 
+
+2017-02-26 23:31:49 INFO: Removing HyperVisor Selections 
+
+2017-02-26 23:31:49 INFO: Removed 10.207.10.150 from the deployed set 
+
+2017-02-26 23:31:49 INFO: Removed 10.207.10.151 from the deployed set 
+
+2017-02-26 23:31:49 INFO: Removed 10.207.10.152 from the deployed set 
+
+2017-02-26 23:31:49 INFO: Removed 10.207.10.153 from the deployed set 
+
+2017-02-26 23:31:49 INFO: Removing VMManager from the configuration ( vCenter Details) 
+
+2017-02-26 23:31:49 INFO: Completed Clean up Process 
+
+2017-02-26 23:31:58 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 23:31:58 INFO: Error in input, please check all the json,csv files first 
+
+2017-02-26 23:31:58 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 23:32:26 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 23:32:26 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 23:32:26 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 23:32:26 INFO: The General configuration file has been validated 
+
+2017-02-26 23:32:26 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 23:32:26 INFO: The Global configuration file has been validated 
+
+2017-02-26 23:32:26 INFO: The Volume Config file has been validated 
+
+2017-02-26 23:32:26 INFO: VM disks being used is     
+
+2017-02-26 23:32:26 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 23:33:39 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 23:33:40 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 23:33:40 INFO: The Hypervisor csv file has been validated 
+
+2017-02-26 23:33:40 INFO: C:\USX_Automation\Input_Files\GeneralConfig_v1.json 
+
+2017-02-26 23:33:40 INFO: The General configuration file has been validated 
+
+2017-02-26 23:33:40 INFO: C:\USX_Automation\Input_Files\GlobalSettings.json 
+
+2017-02-26 23:33:40 INFO: The Global configuration file has been validated 
+
+2017-02-26 23:33:40 INFO: The Volume Config file has been validated 
+
+2017-02-26 23:33:40 INFO: VM disks being used is     
+
+2017-02-26 23:33:40 INFO: LocalFlash disks being is HSdemo01-SSD HSdemo02-SSD HSDemo03-SSD HSDemo04-SSD 
+
+2017-02-26 23:33:40 INFO: Input Validation is complete, Proceeding to setup USX 
+
+2017-02-26 23:33:43 INFO: Connected to Virtual Center 10.207.10.154 
+
+2017-02-26 23:33:43 INFO: ###################### Setting Global Advanced Setting ################### 
+
+2017-02-26 23:33:43 INFO: Setting Advanced setting on USX Manager to true 
+
+2017-02-26 23:33:43 INFO: Setting Multicast IP to 226.2.2.6 
+
+2017-02-26 23:33:43 INFO: Setting Global Maximum Memory allocation to 95 
+
+2017-02-26 23:33:43 INFO: Setting Global Maximum Local disk allocation to 90 
+
+2017-02-26 23:33:43 INFO: Setting Global Maximum Local Flash  allocation to 99 
+
+2017-02-26 23:33:43 INFO: Setting HyperVisor layout for volume to 4 
+
+2017-02-26 23:33:43 INFO: Setting HyperVisor reservations to true 
+
+2017-02-26 23:33:43 INFO: Setting USX SnapShot mode to false 
+
+2017-02-26 23:33:44 INFO: Setting request interval value to 3 
+
+2017-02-26 23:33:44 INFO: Setting shared storage for OS Disk setting to false 
+
+2017-02-26 23:33:44 INFO: Setting shared storage for OS Disk setting to THICKLAZY 
+
+2017-02-26 23:33:44 INFO: Setting SSD storage for OS Setting to false 
+
+2017-02-26 23:33:44 INFO: Setting flash storage for data setting to true 
+
+2017-02-26 23:33:44 INFO: Setting MAX Nodes per HA Cluster 3 
+
+2017-02-26 23:33:44 INFO: Setting shared HA  to true 
+
+2017-02-26 23:33:44 INFO: Setting Volume Export type to NFS 
+
+2017-02-26 23:33:44 INFO: ###################### Completed Global Settings ################### 
+
+2017-02-26 23:33:49 INFO: Added Hypervisors 
+
+2017-02-26 23:33:49 INFO: Added HSdemo01-SSD to the deployment 
+
+2017-02-26 23:33:49 INFO: Added HSdemo02-SSD to the deployment 
+
+2017-02-26 23:33:49 INFO: Added HSDemo03-SSD to the deployment 
+
+2017-02-26 23:33:49 INFO: Added HSDemo04-SSD to the deployment 
+
+2017-02-26 23:33:49 INFO: 
+ Network Profiles created 
+
+2017-02-26 23:33:49 INFO: Last Step : Name Templates created 
+
+2017-02-26 23:34:08 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 23:51:21 INFO: Importing USX PowerShell modules first 
+
+2017-02-26 23:51:21 INFO: First Disabling HA on all Volumes 
+
+2017-02-26 23:51:23 INFO: USXX2 HA has been disabled, continuing 
+
+2017-02-26 23:51:26 INFO: USXX3 HA has been disabled, continuing 
+
+2017-02-26 23:51:28 INFO: USXX1 HA has been disabled, continuing 
+
+2017-02-26 23:51:28 INFO: Deleting Volumes Virtual Machines 
+
+2017-02-26 23:54:24 INFO: Deleting Service Virtual Machines 
+
+2017-02-26 23:54:49 INFO: Deleting Orphaned HA Containers 
+
+2017-02-26 23:54:59 INFO: Cleaning up Networking Details and Name Templates 
+
+2017-02-26 23:54:59 INFO: Remove Storage Profile 
+
+2017-02-26 23:54:59 INFO: Removing HyperVisor Selections 
+
+2017-02-26 23:54:59 INFO: Removed 10.207.10.150 from the deployed set 
+
+2017-02-26 23:54:59 INFO: Removed 10.207.10.151 from the deployed set 
+
+2017-02-26 23:54:59 INFO: Removed 10.207.10.152 from the deployed set 
+
+2017-02-26 23:54:59 INFO: Removed 10.207.10.153 from the deployed set 
+
+2017-02-26 23:54:59 INFO: Removing VMManager from the configuration ( vCenter Details) 
+
+2017-02-26 23:55:00 INFO: Completed Clean up Process 
+

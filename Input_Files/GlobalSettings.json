@@ -1,0 +1,17 @@
+{
+    "Advanced Settings": "true",
+	"Multicast IP": "226.2.2.6",
+	"Max Memory Allocation": "95",
+    "Max Local Disk Allocation": "90",
+    "Max Local Flash Allocation": "99",
+    "Hypervisor Layouts for Volume": "4",
+	"Max Volumes per HA Node" : "3",
+	"Enable Hypervisor Reservations": "true",
+	"Enable Snapshots & Replication Default": "false",
+	"USX Manager Info Refresh Interval": "3",
+	"Prefer Shared Storage for VM disk": "false",
+	"Shared Storage VM disk type": "THICKLAZY",
+	"Prefer SSD for VM disk": "true",
+	"Prefer SSD for Data disk": "true",
+	"Shared HA": "true"
+}
